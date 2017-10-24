@@ -1,0 +1,28 @@
+{
+  "name": "monotonic-lexicographic-timestamp",
+  "version": "0.0.1",
+  "description": "Monotonically increasing timestamp with lexicographic order",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && doctap readme.md"
+  },
+  "dependencies": {
+    "unique-lexicographic-integer": "~1.0.0"
+  },
+  "devDependencies": {
+    "doctap": "0.0.2",
+    "standard": "~10.0.3"
+  },
+  "keywords": [
+    "lexicographic",
+    "timestamp"
+  ],
+  "engines": {
+    "node": ">=4",
+    "npm": ">=2.0.0"
+  },
+  "repository": "vweevers/monotonic-lexicographic-timestamp",
+  "bugs": "https://github.com/vweevers/monotonic-lexicographic-timestamp/issues",
+  "homepage": "https://github.com/vweevers/monotonic-lexicographic-timestamp"
+}
