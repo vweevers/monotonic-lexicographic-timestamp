@@ -1,6 +1,6 @@
 {
   "name": "monotonic-lexicographic-timestamp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Monotonically increasing timestamp with lexicographic order",
   "license": "MIT",
   "author": "Vincent Weevers",
