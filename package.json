@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "doctap": "0.0.2",
-    "standard": "~10.0.3"
+    "standard": "~12.0.1"
   },
   "keywords": [
     "lexicographic",
